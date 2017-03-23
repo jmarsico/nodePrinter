@@ -1,0 +1,15 @@
+{
+  "name": "nodeprinter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "printer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-cmd": "^2.0.0",
+    "osc-min": "^1.1.1"
+  }
+}
